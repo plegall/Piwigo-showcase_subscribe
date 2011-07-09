@@ -76,10 +76,10 @@ if (isset($_POST['submit_subscribe']))
     'method' => 'pwg.showcase.subscribe',
     'url' => get_absolute_root_url(),
     'date_creation' => $date_creation,
-    'name' => $_POST['title'],
-    'comment' => $_POST['description'],
-    'tags' => $_POST['tags'],
-    'author' => $_POST['author'],
+    'name' => stripslashes($_POST['title']),
+    'comment' => stripslashes($_POST['description']),
+    'tags' => stripslashes($_POST['tags']),
+    'author' => stripslashes($_POST['author']),
     'email' => $_POST['email'],
     );
 
