@@ -1,0 +1,1 @@
+Regisztrálja galériáját a Piwigo galériákat bemutató rendszerbe, mindössze néhány kattintással.
