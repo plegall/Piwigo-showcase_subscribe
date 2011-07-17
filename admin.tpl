@@ -12,7 +12,7 @@ form fieldset textarea {width:600px;height:100px}
 
 
 <div class="titrePage">
-  <h2>Showcase Subscribe</h2>
+  <h2>Showcase Register</h2>
 </div>
 
 {if $CURRENT_STATUS eq 'unknown'}
@@ -66,7 +66,7 @@ form fieldset textarea {width:600px;height:100px}
     </p>
 
     <p style="margin:0;">
-      <input class="submit" type="submit" name="submit_subscribe" value="{'Subscribe'|@translate}"/>
+      <input class="submit" type="submit" name="submit_subscribe" value="{'Register'|@translate}"/>
     </p>
   </fieldset>
 </form>

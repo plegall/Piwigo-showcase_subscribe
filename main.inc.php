@@ -1,8 +1,8 @@
 <?php
 /*
-Plugin Name: Showcase Subscribe
+Plugin Name: Showcase Register
 Version: auto
-Description: Subscribe to Piwigo Showcase (piwigo.org/showcase)
+Description: Register on Piwigo Showcase (piwigo.org/showcase)
 Plugin URI: http://piwigo.org/ext/extension_view.php?eid=
 Author: plg
 Author URI: http://piwigo.wordpress.com
