@@ -141,7 +141,7 @@ if (!isset($subscription_status))
 if ('pending' == $subscription_status)
 {
   array_push(
-    $page['warnings'],
+    $page['infos'],
     l10n('Your subscription is currently pending, if you have provided an email, you will be notified as soon as your gallery is registered')
     );
 }
@@ -149,7 +149,7 @@ if ('pending' == $subscription_status)
 if ('registered' == $subscription_status)
 {
   array_push(
-    $page['warnings'],
+    $page['infos'],
     sprintf(
       l10n('Your gallery is already registered in Piwigo Showcase, <a href="%s">see it →</a>'),
       $exists_result['result']['picture_url']

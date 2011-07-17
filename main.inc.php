@@ -17,11 +17,20 @@ if (!defined('PHPWG_ROOT_PATH'))
 add_event_handler('get_admin_plugin_menu_links', 'showcase_subscribe_menu');
 function showcase_subscribe_menu($menu)
 {
+  if (preg_match('/^2.1/', PHPWG_VERSION))
+  {
+    $url = get_admin_plugin_menu_link(dirname(__FILE__).'/admin.php');
+  }
+  else
+  {
+    $url = get_root_url().'admin.php?page=plugin-showcase_subscribe';
+  }
+  
   array_push(
     $menu,
     array(
       'NAME' => 'Showcase',
-      'URL'  => get_root_url().'admin.php?page=plugin-showcase_subscribe'
+      'URL'  => $url,
       )
     );
 
