@@ -23,10 +23,10 @@
 $lang['(example: nature, landscape, portrait)'] = '(exemplo: Natureza, Paisagens,retrato, etc)';
 $lang['(optional)'] = '(opcional)';
 $lang['A good description will improve your visibility in search engines'] = 'Uma boa descrição aumentará a sua visibilidade nas máquinas de busca';
-$lang['An error has occured, no connection to %s'] = 'Ocorreu um erro na ligação a %s';
-$lang['Gallery Address (URL)'] = 'Direção da Galeria (URL)';
+$lang['An error has occured, no connection to %s'] = 'Ocorreu um erro; Sem ligação a %s';
+$lang['Gallery Address (URL)'] = 'URL da Galeria';
 $lang['provide it if you want to be notified when your gallery is registered'] = 'Faculte isto se deseja ser notificado(a)quando a sua galeria estiver registada';
 $lang['Subscribe my gallery to Piwigo Showcase'] = 'Registar a minha galeria no conteúdo mostruário do Piwigo';
-$lang['Your gallery is already registered in Piwigo Showcase, <a href="%s">see it →</a>'] = 'A sua Galeria está registada no conteúdo mostruário do Piwigo <a href="%s">Veja isto→</a>';
+$lang['Your gallery is already registered in Piwigo Showcase, <a href="%s">see it →</a>'] = 'A sua Galeria está registada no conteúdo mostruário do Piwigo <a href="%s">Veja→</a>';
 $lang['Your subscription is currently pending, if you have provided an email, you will be notified as soon as your gallery is registered'] = 'O seu registo está actualmente pendente; se forneceu um email,será notificado(a)logo que a sua galeria seja registada.';
 ?>
