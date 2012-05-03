@@ -7,5 +7,5 @@ $lang['Your gallery is already registered in Piwigo Showcase, <a href="%s">see i
 $lang['A good description will improve your visibility in search engines'] = ' Eine gute Beschreibung verbessert Ihre Auflistung in den Suchmaschinen '; 
 $lang['provide it if you want to be notified when your gallery is registered'] = 'tragen Sie sie ein, wenn Sie nach fertiggestellter Registrierung benachrichtigt werden wollen'; 
 $lang['(optional)'] = '(optional)';
-$lang['(example: nature, landscape, portrait)'] = '(z.B.: Natürlich, Landschaft, Porträt)';
+$lang['(example: nature, landscape, portrait)'] = '(z.B.: Natur, Landschaft, Porträt)';
 ?>
