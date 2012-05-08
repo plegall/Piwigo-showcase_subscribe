@@ -24,9 +24,9 @@ $lang['(example: nature, landscape, portrait)'] = '(eksempel: natur, landskab, p
 $lang['(optional)'] = '(frivilligt)';
 $lang['A good description will improve your visibility in search engines'] = 'En god beskrivelse vil forbedre din synlighed i søgemaskinerne';
 $lang['An error has occured, no connection to %s'] = 'En fejl er opstået, ingen forbindelse til% s';
-$lang['Gallery Address (URL)'] = 'Galleri Addresse (URL)';
-$lang['Subscribe my gallery to Piwigo Showcase'] = 'Tilmeld dig mit galleri på Piwigo Showcase';
+$lang['Gallery Address (URL)'] = 'Galleri addresse (URL)';
+$lang['Subscribe my gallery to Piwigo Showcase'] = 'Tilmeld mit galleri på Piwigo Showcase';
 $lang['Your gallery is already registered in Piwigo Showcase, <a href="%s">see it →</a>'] = 'Dit galleri er allerede registreret i Piwigo Showcase, <a href="%s">see it →</a>';
-$lang['Your subscription is currently pending, if you have provided an email, you will be notified as soon as your gallery is registered'] = 'Din tilmelding er i øjeblikket verserer, hvis du har angivet en e-mail, vil du blive underrettet, så snart dit galleri er registreret';
+$lang['Your subscription is currently pending, if you have provided an email, you will be notified as soon as your gallery is registered'] = 'Din tilmelding er i øjeblikket under oprettelse, hvis du har angivet en e-mail, vil du blive underrettet, så snart dit galleri er registreret';
 $lang['provide it if you want to be notified when your gallery is registered'] = 'give det, hvis du ønsker at få besked, når dit galleri er registreret';
 ?>
