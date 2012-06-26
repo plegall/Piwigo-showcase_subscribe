@@ -27,6 +27,6 @@ $lang['An error has occured, no connection to %s'] = 'خطایی رخ داد، �
 $lang['Gallery Address (URL)'] = 'آدرس (URL) گالری';
 $lang['Subscribe my gallery to Piwigo Showcase'] = 'گالری من را در ویترین Piwigo ثبت کن';
 $lang['Your gallery is already registered in Piwigo Showcase, <a href="%s">see it →</a>'] = 'گالری شما پیش از این در ویترین Piwigo ثبت شده است، <a href="%s">مشاهده ی گالری←</a>';
-$lang['Your subscription is currently pending, if you have provided an email, you will be notified as soon as your gallery is registered'] = 'گالری شما پس از تأیید ثبت خواهد شد، اگر ایمیل خود را وارد کرده باشید، به هنگام تأیید گالری شما ایمیلی برایتان فرستاده می شود';
+$lang['Your subscription is currently pending, if you have provided an email, you will be notified as soon as your gallery is registered'] = 'گالری شما پس از پذیرش ثبت خواهد شد، اگر ایمیل خود را وارد کرده باشید، به هنگام پذیرفته شدن گالری شما ایمیلی برایتان فرستاده می شود';
 $lang['provide it if you want to be notified when your gallery is registered'] = 'اگر می خواهید به هنگام ثبت شدن گالریتان به شما ایمیل فرستاده شود ایمیل خود را وارد کنید';
 ?>
