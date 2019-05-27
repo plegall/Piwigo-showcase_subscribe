@@ -25,7 +25,7 @@ $lang['Subscribe my gallery to Piwigo Showcase'] = 'تسجيل معرض الصو
 $lang['(example: nature, landscape, portrait)'] = '(على سبيل المثال: الطبيعة، المناظر الطبيعية، صور شخصية)';
 $lang['(optional)'] = '(اختياري)';
 $lang['A good description will improve your visibility in search engines'] = 'وصف المعرض بشكل جيد ، ليظهر في محركات البحث';
-$lang['An error has occured, no connection to %s'] = 'حدث خطأ ، في الاتصال بـ %s';
+$lang['An error has occurred, no connection to %s'] = 'حدث خطأ ، في الاتصال بـ %s';
 $lang['Your gallery is already registered in Piwigo Showcase, <a href="%s">see it →</a>'] = 'تم تسجيل معرضك في Piwigo Showcast , <a href="%s">شاهده →</a>';
 $lang['Your subscription is currently pending, if you have provided an email, you will be notified as soon as your gallery is registered'] = 'تسجيلك معلق حالياً ،   سوف يتم اشعارك في اقرب وقت ، في حال وصول تم تبليغك عبر البريد';
 $lang['provide it if you want to be notified when your gallery is registered'] = 'تقدم أنه إذا كنت تريد أن يتم إعلامك عندما يتم تسجيل معرض الصور الخاص بك';
