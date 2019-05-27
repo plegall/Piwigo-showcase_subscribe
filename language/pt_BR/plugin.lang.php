@@ -25,7 +25,7 @@ $lang['Your subscription is currently pending, if you have provided an email, yo
 $lang['provide it if you want to be notified when your gallery is registered'] = 'Forneça isso se quiser ser notificado quando sua galeria for registrada';
 $lang['(optional)'] = '(opcional)';
 $lang['A good description will improve your visibility in search engines'] = 'Uma boa descrição irá aumentar sua visibilidade em sites de busacas';
-$lang['An error has occured, no connection to %s'] = 'Um erro ocorreu, sem conecções para %s';
+$lang['An error has occurred, no connection to %s'] = 'Um erro ocorreu, sem conecções para %s';
 $lang['Gallery Address (URL)'] = 'Endereço da Galeria (URL)';
 $lang['Subscribe my gallery to Piwigo Showcase'] = 'Registrar minha galeria no Showcase do Piwigo';
 $lang['Your gallery is already registered in Piwigo Showcase, <a href="%s">see it →</a>'] = 'Sua galeria já foi registrada no Showcase da Piwigo, <a href="%s">Veja isso →</a>';

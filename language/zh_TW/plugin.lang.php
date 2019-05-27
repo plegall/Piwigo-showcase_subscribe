@@ -23,7 +23,7 @@
 $lang['(example: nature, landscape, portrait)'] = '(例如：自然，風景，人像)';
 $lang['(optional)'] = '(可選)';
 $lang['A good description will improve your visibility in search engines'] = '很好的說明，將提高在搜索引擎中的可見度';
-$lang['An error has occured, no connection to %s'] = '發生了錯誤，沒有任何連接到%s';
+$lang['An error has occurred, no connection to %s'] = '發生了錯誤，沒有任何連接到%s';
 $lang['Gallery Address (URL)'] = '畫廊地址(URL)';
 $lang['Subscribe my gallery to Piwigo Showcase'] = '在Piwigo註冊我的畫廊展示台';
 $lang['Your gallery is already registered in Piwigo Showcase, <a href="%s">see it →</a>'] = '您的圖片庫中已註冊Piwigo的展示台，<a href="%s">請參見→</a>';

@@ -23,7 +23,7 @@
 $lang['Your gallery is already registered in Piwigo Showcase, <a href="%s">see it →</a>'] = 'แกลเลอรี่ของคุณมีการลงทะเบียนไว้แล้วใน Piwigo Showcase, <a href="%s">ดูได้ที่ →</a>';
 $lang['Your subscription is currently pending, if you have provided an email, you will be notified as soon as your gallery is registered'] = 'การลงทะเบียนของคุณกำลังรอการตรวจสอบเพื่ออนุมัติ, ถ้าคุณให้อีเมล์ไว้ คุณจะได้รับการแจ้งเตือนทันทีเมื่อได้ลงทะเบียนเสร็จแล้ว';
 $lang['provide it if you want to be notified when your gallery is registered'] = 'ให้ข้อมูลดังกล่าวถ้าคุณต้องการที่จะรับการแจ้งเตือนเมื่อแกลเลอรี่ของคุณมีการลงทะเบียน';
-$lang['An error has occured, no connection to %s'] = 'เกิดข้อผิดพลาด, ไม่มีการเชื่อมต่อไปยัง %s';
+$lang['An error has occurred, no connection to %s'] = 'เกิดข้อผิดพลาด, ไม่มีการเชื่อมต่อไปยัง %s';
 $lang['Gallery Address (URL)'] = 'ที่อยู่แกลอรี่ (URL)';
 $lang['Subscribe my gallery to Piwigo Showcase'] = 'ลงทะเบียนแกลเลอรี่ของฉันใน Piwigo Showcase';
 $lang['A good description will improve your visibility in search engines'] = 'คำอธิบายที่ดีจะช่วยเพิ่มประสิทธิภาพการค้นหาเนื้อหาแกลอรี่ของคุณในเครื่องมือค้นหา';

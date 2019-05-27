@@ -28,7 +28,7 @@ $lang['Your subscription is currently pending, if you have provided an email, yo
 நீங்கள் விரைவில் உங்கள் கேலரி பதிவுசெய்யப்பட்டுள்ளது என்று அறிவிக்கப்படும்';
 $lang['provide it if you want to be notified when your gallery is registered'] = 'நீங்கள் விரும்பினால் அதனை வழங்க 
 உங்கள் கேலரி பதிவு செய்யப்பட்ட போது தெரிவிக்கப்படும்';
-$lang['An error has occured, no connection to %s'] = 'ஒரு பிழை ஏற்பட்டுள்ளது,இணைப்பு இல்லாத % s ';
+$lang['An error has occurred, no connection to %s'] = 'ஒரு பிழை ஏற்பட்டுள்ளது,இணைப்பு இல்லாத % s ';
 $lang['A good description will improve your visibility in search engines'] = 'ஒரு சிறந்த விளக்கம் தேடல் இயந்திரங்கள் உங்கள் காட்சித்தன்மையை மேம்படுத்து';
 $lang['(optional)'] = '(விரும்பினால்)';
 $lang['(example: nature, landscape, portrait)'] = '(உதாரணம்: இயற்கை, நிலத்தோற்றம், ஓவியம்)';

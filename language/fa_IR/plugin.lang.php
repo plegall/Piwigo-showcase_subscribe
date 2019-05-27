@@ -23,7 +23,7 @@
 $lang['(example: nature, landscape, portrait)'] = '(نمونه: طبیعت، منظره، پورتره)';
 $lang['(optional)'] = '(اختیاری)';
 $lang['A good description will improve your visibility in search engines'] = 'توضیح خوب موجب می شود تا عکس شما راحت تر در موتور های جستجو پیدا شود';
-$lang['An error has occured, no connection to %s'] = 'خطایی رخ داد، پیوندی با %s وجود ندارد';
+$lang['An error has occurred, no connection to %s'] = 'خطایی رخ داد، پیوندی با %s وجود ندارد';
 $lang['Gallery Address (URL)'] = 'آدرس (URL) گالری';
 $lang['Subscribe my gallery to Piwigo Showcase'] = 'گالری من را در ویترین Piwigo ثبت کن';
 $lang['Your gallery is already registered in Piwigo Showcase, <a href="%s">see it →</a>'] = 'گالری شما پیش از این در ویترین Piwigo ثبت شده است، <a href="%s">مشاهده ی گالری←</a>';

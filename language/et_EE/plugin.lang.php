@@ -23,7 +23,7 @@
 $lang['(example: nature, landscape, portrait)'] = '(näiteks: loodus, maastik, portree)';
 $lang['(optional)'] = '(valikuline)';
 $lang['A good description will improve your visibility in search engines'] = 'Põhjalik kirjeldus soodustab nähtavust otsingumootorites';
-$lang['An error has occured, no connection to %s'] = 'Tekkis tõrge, puudub ühendus %s-ga';
+$lang['An error has occurred, no connection to %s'] = 'Tekkis tõrge, puudub ühendus %s-ga';
 $lang['Gallery Address (URL)'] = 'Galerii aadress (URL)';
 $lang['Subscribe my gallery to Piwigo Showcase'] = 'Registreeri minu galerii Piwigo Showcase-s';
 $lang['Your gallery is already registered in Piwigo Showcase, <a href="%s">see it →</a>'] = 'Sinu galerii on juba registreeritud Piwigo Showcase-s, <a href="%s">vaata seda →</a>';

@@ -23,7 +23,7 @@
 $lang['(example: nature, landscape, portrait)'] = '(Приклад: природа, пейзаж, портрет)';
 $lang['(optional)'] = '(За бажанням)';
 $lang['A good description will improve your visibility in search engines'] = 'Гарний опис поліпшить вашу видимість в пошукових системах';
-$lang['An error has occured, no connection to %s'] = 'Сталася помилка, неможливо під\'єднатись до %s';
+$lang['An error has occurred, no connection to %s'] = 'Сталася помилка, неможливо під\'єднатись до %s';
 $lang['Gallery Address (URL)'] = 'Адреса галереї (URL)';
 $lang['provide it if you want to be notified when your gallery is registered'] = 'Вкажіть email, якщо хочете отримувати повідомлення, коли вашу галерею буде зареєстровано';
 $lang['Subscribe my gallery to Piwigo Showcase'] = 'Реєстрація моєї галереї на Piwigo Showcase';
