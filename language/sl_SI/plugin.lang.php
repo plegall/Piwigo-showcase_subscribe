@@ -23,7 +23,7 @@
 $lang['(example: nature, landscape, portrait)'] = '(primer: narava, pokrajina, portret)';
 $lang['(optional)'] = '(izbirno)';
 $lang['A good description will improve your visibility in search engines'] = 'Dober opis bo izboljšal vašo vidnost v iskalnikih';
-$lang['An error has occured, no connection to %s'] = 'Prišlo je do napake, ni povezave do %s';
+$lang['An error has occurred, no connection to %s'] = 'Prišlo je do napake, ni povezave do %s';
 $lang['Gallery Address (URL)'] = 'Naslov galerije (URL)';
 $lang['Subscribe my gallery to Piwigo Showcase'] = 'Registriraj mojo galerijo na Piwigo Showcase';
 $lang['Your gallery is already registered in Piwigo Showcase, <a href="%s">see it →</a>'] = 'Vaša galerija je že registrirana na Piwigo Showcase. <a href="%s">oglejte si jo →</a>';

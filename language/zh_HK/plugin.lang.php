@@ -25,7 +25,7 @@ $lang['Your subscription is currently pending, if you have provided an email, yo
 $lang['(example: nature, landscape, portrait)'] = '(例子: 不變, 橫向, 直向)';
 $lang['(optional)'] = '(隨意)';
 $lang['A good description will improve your visibility in search engines'] = '一個好的形容可以改善在搜尋引擎的出現次數';
-$lang['An error has occured, no connection to %s'] = '發生錯誤,  不能連接 %s';
+$lang['An error has occurred, no connection to %s'] = '發生錯誤,  不能連接 %s';
 $lang['Gallery Address (URL)'] = '畫廊地址(網址)';
 $lang['Subscribe my gallery to Piwigo Showcase'] = '註冊我的畫廊在Piwigo陳列室';
 $lang['Your gallery is already registered in Piwigo Showcase, <a href="%s">see it →</a>'] = '你的畫廊已經註冊在Piwigo陳列室, <a href="%s">自這裡 →</a>';

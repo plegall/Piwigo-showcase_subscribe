@@ -26,7 +26,7 @@ $lang['Your gallery is already registered in Piwigo Showcase, <a href="%s">see i
 $lang['Subscribe my gallery to Piwigo Showcase'] = 'Registri mian galerion al la montrolisto de Piwigo';
 $lang['Gallery Address (URL)'] = 'Adreso de la galerio (URL)';
 $lang['A good description will improve your visibility in search engines'] = 'Bona priskribo plibonigos via videbleco en serĉiloj';
-$lang['An error has occured, no connection to %s'] = 'Eraro okazis, neniu konekto al %s';
+$lang['An error has occurred, no connection to %s'] = 'Eraro okazis, neniu konekto al %s';
 $lang['(optional)'] = '(opcia)';
 $lang['(example: nature, landscape, portrait)'] = '(ekzemplo: naturo, pejzaĝo, portreto)';
 ?>

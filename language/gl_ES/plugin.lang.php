@@ -23,7 +23,7 @@
 $lang['Subscribe my gallery to Piwigo Showcase'] = 'Rexistrar a miña galería no directorio Piwigo';
 $lang['Your gallery is already registered in Piwigo Showcase, <a href="%s">see it →</a>'] = 'A túa galería xa está rexistrada no directorio Piwigo, <a href="%s">míraa →</a>';
 $lang['(example: nature, landscape, portrait)'] = '(exemplo: natureza, paisaxe, retrato)';
-$lang['An error has occured, no connection to %s'] = 'Produciuse un erro, non hai conexión a %s';
+$lang['An error has occurred, no connection to %s'] = 'Produciuse un erro, non hai conexión a %s';
 $lang['(optional)'] = '(opcional)';
 $lang['A good description will improve your visibility in search engines'] = 'Unha boa descrición mellorará a túa visibilidade nos motores de busca';
 $lang['Gallery Address (URL)'] = 'Enderezo da galería (URL)';

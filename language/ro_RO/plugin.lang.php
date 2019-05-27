@@ -23,7 +23,7 @@
 $lang['(example: nature, landscape, portrait)'] = '(exemplu: natură, peisaj, portret)';
 $lang['(optional)'] = '(opțional)';
 $lang['A good description will improve your visibility in search engines'] = 'O bună descriere îți va crește vizibilitatea în motoarele de căutare';
-$lang['An error has occured, no connection to %s'] = 'A apărut o eroare, fără conexiune la %s';
+$lang['An error has occurred, no connection to %s'] = 'A apărut o eroare, fără conexiune la %s';
 $lang['Gallery Address (URL)'] = 'Adresa galeriei (URL)';
 $lang['Subscribe my gallery to Piwigo Showcase'] = 'Înregistrează galeria mea în Piwigo Showcase';
 $lang['Your gallery is already registered in Piwigo Showcase, <a href="%s">see it →</a>'] = 'Galeria ta este deja înregistrată în Piwigo Showcase, <a href="%s">viziteaz-o →</a>';
